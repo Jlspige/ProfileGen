@@ -1,0 +1,8 @@
+-Firstname
+-Lastname
+-Email (probably can't generate email addresses for now)
+-Birthday
+-Gender
+
+https://names.mongabay.com/data/1000.html
+https://www.ssa.gov/oact/babynames/top5names.html
