@@ -1,0 +1,10 @@
+C:\Users\Josh\Desktop\ProfileGen\ProfileGen\ProfileGen\bin\Debug\ProfileGen.exe.config
+C:\Users\Josh\Desktop\ProfileGen\ProfileGen\ProfileGen\bin\Debug\ProfileGen.exe
+C:\Users\Josh\Desktop\ProfileGen\ProfileGen\ProfileGen\bin\Debug\ProfileGen.pdb
+C:\Users\Josh\Desktop\ProfileGen\ProfileGen\ProfileGen\obj\Debug\ProfileGen.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Desktop\ProfileGen\ProfileGen\ProfileGen\obj\Debug\ProfileGen.Form1.resources
+C:\Users\Josh\Desktop\ProfileGen\ProfileGen\ProfileGen\obj\Debug\ProfileGen.Properties.Resources.resources
+C:\Users\Josh\Desktop\ProfileGen\ProfileGen\ProfileGen\obj\Debug\ProfileGen.csproj.GenerateResource.cache
+C:\Users\Josh\Desktop\ProfileGen\ProfileGen\ProfileGen\obj\Debug\ProfileGen.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Desktop\ProfileGen\ProfileGen\ProfileGen\obj\Debug\ProfileGen.exe
+C:\Users\Josh\Desktop\ProfileGen\ProfileGen\ProfileGen\obj\Debug\ProfileGen.pdb
